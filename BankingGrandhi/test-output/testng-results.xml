@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-01T20:33:07Z" name="Default suite" finished-at="2021-12-01T20:33:55Z" duration-ms="48872">
+    <groups>
+    </groups>
+    <test started-at="2021-12-01T20:33:07Z" name="Default test" finished-at="2021-12-01T20:33:55Z" duration-ms="48872">
+      <class name="com.grandhi.banking.task2.Task2TestCase1">
+        <test-method signature="openAppilication()[pri:1, instance:com.grandhi.banking.task2.Task2TestCase1@79351f41]" started-at="2021-12-01T20:33:07Z" name="openAppilication" description="Launch Appilication" finished-at="2021-12-01T20:33:52Z" duration-ms="45675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAppilication -->
+        <test-method signature="loginAsACustomer()[pri:2, instance:com.grandhi.banking.task2.Task2TestCase1@79351f41]" started-at="2021-12-01T20:33:52Z" name="loginAsACustomer" description="Login as a Customer" finished-at="2021-12-01T20:33:52Z" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAsACustomer -->
+        <test-method signature="loggingIn()[pri:3, instance:com.grandhi.banking.task2.Task2TestCase1@79351f41]" started-at="2021-12-01T20:33:52Z" name="loggingIn" description="logging in" finished-at="2021-12-01T20:33:53Z" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingIn -->
+        <test-method signature="deposit()[pri:4, instance:com.grandhi.banking.task2.Task2TestCase1@79351f41]" started-at="2021-12-01T20:33:53Z" name="deposit" description="Deposit" finished-at="2021-12-01T20:33:53Z" duration-ms="474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deposit -->
+        <test-method signature="validation()[pri:5, instance:com.grandhi.banking.task2.Task2TestCase1@79351f41]" started-at="2021-12-01T20:33:53Z" name="validation" description="Validation" finished-at="2021-12-01T20:33:55Z" duration-ms="2130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation -->
+        <test-method signature="logout()[pri:6, instance:com.grandhi.banking.task2.Task2TestCase1@79351f41]" started-at="2021-12-01T20:33:55Z" name="logout" description="Validation" finished-at="2021-12-01T20:33:55Z" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="closingtheBrowser()[pri:7, instance:com.grandhi.banking.task2.Task2TestCase1@79351f41]" started-at="2021-12-01T20:33:55Z" name="closingtheBrowser" description="Closing the Browser" finished-at="2021-12-01T20:33:55Z" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingtheBrowser -->
+      </class> <!-- com.grandhi.banking.task2.Task2TestCase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
